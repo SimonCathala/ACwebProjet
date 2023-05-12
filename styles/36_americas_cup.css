@@ -2,7 +2,7 @@
 
 body   /* Style à appliquer sur l'ensemble du document */
 {
-  background-color: #FFFFFF ;  /* Couleur de fond : bleu */
+  background-color: #72B6E2 ;  /* Couleur de fond : bleu */
   margin-right: 2%;           /* Gestion des marges latérales */
   margin-left: 2%;
   font-family: Helvetica, Arial, sans-serif;
@@ -56,7 +56,7 @@ footer
 #categorie  /* Style à appliquer sur la sous-partie de classe "categorie" */
 {
   margin-top: 2%;
-  background-color: #000000;   /* Couleur de fond  */
+  background-color: #4D9ED3;   /* Couleur de fond  */
   border-style: solid;
   border-width: medium;        /* Bordure de couleur sur les quatre côtés */
   border-color: #2D87C2;
